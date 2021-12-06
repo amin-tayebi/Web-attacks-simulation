@@ -1,5 +1,12 @@
 SQL Injection and XSS simulated (In 2019) 
 
+After creating a Local database server (XAMP) run.
+Some sample tables in the Database created
+The data of the tables using SQL Injection functions have been accessed
+The data of the tables using XSS (Cross site scripting) commands have been accessed
+
+# Decription 
+
 Application scenario for implementation of SQLI/XSS web attacks including following
 practical activities
 
@@ -15,3 +22,4 @@ practical activities
 database server
 
 • Implement attack commands to access the data in the database web server
+
