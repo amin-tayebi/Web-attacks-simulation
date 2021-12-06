@@ -1,4 +1,3 @@
-# Web-attacks-simulation-
 SQL Injection and XSS simulated (In 2019) 
 
 Application scenario for implementation of SQLI/XSS web attacks including following
