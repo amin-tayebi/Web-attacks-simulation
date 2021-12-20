@@ -1,25 +1,18 @@
 SQL Injection and XSS simulated (In 2019) 
 
-After creating a Local database server (XAMP) run.
-Some sample tables in the Database created.
-The data of the tables using SQL Injection functions have been accessed.
-The data of the tables using XSS (Cross site scripting) commands have been accessed.
-
 # Decription 
 
-Application scenario for implementation of SQLI/XSS web attacks including following
-practical activities
+SQL Injection and XSS x simulation implementation steps are as follows:
 
 #  phase(1)
 
-• Design and implement a MYSQL web database through XAMPP Apache distribution
+Design and implement a MYSQL web database through XAMPP Apache distribution and running it.
 
-• Create two tables (1.Password_table 2.Staff_profile) for attack scenario
+Then two tables Password_table and Staff_profile for attack scenario created. 
+
+A search form designed in PHP language which inside it there is a connection to the MYSQL database server.
 
 #  phase(2)
 
-• Design a search form in PHP language which inside it there is a connection to the MYSQL
-database server
-
-• Implement attack commands to access the data in the database web server
+ Attack commands implemented to access the data in the database web server and the data of the tables using SQL Injection functions have been accessed from outside.
 
